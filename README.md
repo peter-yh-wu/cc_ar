@@ -12,6 +12,6 @@ Run the following commands on Terminal:
 
 ### For PC Users:
 - Make sure you have Python installed
-- If not, download the Windows x86-64 executable installer from https://www.python.org/downloads/release/python-364/ and run it
+- If not, download the Windows x86-64 executable installer from [here](https://www.python.org/downloads/release/python-364/) and run it
 - - pip install numpy
 - On Command Line, run 'python -m pip install opencv-python'
