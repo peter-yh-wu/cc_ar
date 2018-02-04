@@ -16,7 +16,7 @@ Run the following commands on Terminal:
 - On Command Line, run 'python -m pip install opencv-python'
 - pip install numpy
 
-### More Links
+## More Links
 - [Pre-generated cascade files](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 - [Presentation](https://docs.google.com/presentation/d/1bRMzdWZ2t1DNT_oRi9OnqKMsKGw5EJ9c5OL4GtXO3DE/edit?usp=sharing)
 
