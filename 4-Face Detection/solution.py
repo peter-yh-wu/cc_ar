@@ -6,7 +6,6 @@ faceCascade = cv2.CascadeClassifier(faceCascadeFile)
 if faceCascade.empty(): raise Exception('bad path')
 
 cap = cv2.VideoCapture(0)
-scale = 1
 
 while(True):
     _, frame = cap.read()
