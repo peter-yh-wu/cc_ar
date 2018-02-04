@@ -15,3 +15,6 @@ Run the following commands on Terminal:
 - If not, download the Windows x86-64 executable installer from [here](https://www.python.org/downloads/release/python-364/) and run it
 - On Command Line, run 'python -m pip install opencv-python'
 - pip install numpy
+
+### More Links
+- Pre-generated cascade files: https://github.com/opencv/opencv/tree/master/data/haarcascades
